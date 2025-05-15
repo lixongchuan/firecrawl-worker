@@ -1,0 +1,4 @@
+name = "firecrawl-worker"
+type = "javascript"
+main = "index.js"
+compatibility_date = "2025-05-15"
